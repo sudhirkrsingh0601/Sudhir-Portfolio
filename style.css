@@ -678,3 +678,15 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
+.card-link {
+    text-decoration: none;
+    color: inherit; 
+    display: block; 
+}
+
+.card-link .card {
+    cursor: pointer;
+}
+
+
